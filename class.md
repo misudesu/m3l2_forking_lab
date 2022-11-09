@@ -1,3 +1,3 @@
-name:misael dessalegn
-location: Ethiopia
-certificate: version controler
+misael dessalegn
+ethiopia 
+version control
